@@ -1,16 +1,35 @@
-## Hi there 👋
+# Luke Gebhart
 
-<!--
-**Fr0ztbyteX/Fr0ztbyteX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and U.S. Air Force veteran focused on Linux, networking, cybersecurity, and systems programming.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completing a Bachelor of Science in Computer Science
+- Building practical Linux and network-security labs
+- Developing projects in Java, Python, and C++
+- Studying networking, packet analysis, and system administration
+
+## Featured Projects
+
+### Kali Linux Network Security Home Lab
+Virtualized networking lab using Kali Linux, VirtualBox, dual USB wireless adapters, Wireshark, Nmap, NetworkManager, and authorized test devices.
+
+### Cryptids Java Dialogue Game
+Branching horror dialogue game developed in Java for an object-oriented programming course, featuring region selection, player choices, entity interactions, and multiple outcomes.
+
+## Technologies
+
+- Java
+- Python
+- C++
+- Linux
+- Git and GitHub
+- Wireshark
+- Nmap
+- VirtualBox
+- Networking fundamentals
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/lukegebhart
+- Email: lgghart@gmail.com
