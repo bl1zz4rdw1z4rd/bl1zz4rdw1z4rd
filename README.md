@@ -4,7 +4,7 @@ Computer Science student and U.S. Air Force veteran focused on Linux, networking
 
 ## Current Focus
 
-- Completing a Bachelor of Science in Computer Science
+- Pursuing a Bachelor of Science in Computer Science
 - Building practical Linux and network-security labs
 - Developing projects in Java, Python, and C++
 - Studying networking, packet analysis, and system administration
