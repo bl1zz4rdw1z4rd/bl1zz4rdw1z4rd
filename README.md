@@ -14,8 +14,8 @@ Computer Science student and U.S. Air Force veteran focused on Linux, networking
 ### Kali Linux Network Security Home Lab
 Virtualized networking lab using Kali Linux, VirtualBox, dual USB wireless adapters, Wireshark, Nmap, NetworkManager, and authorized test devices.
 
-### Cryptids Java Dialogue Game
-Branching horror dialogue game developed in Java for an object-oriented programming course, featuring region selection, player choices, entity interactions, and multiple outcomes.
+### GCC ASME Robot Program
+Developing C++ code to operate all various robotic features of the Germanna Community College Robot for the ASME Competition 2027.
 
 ## Technologies
 
