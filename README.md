@@ -15,22 +15,13 @@ Computer Science student and U.S. Air Force veteran building experience with Lin
 - **[Kali Linux Network Security Lab](https://github.com/bl1zz4rdw1z4rd/Kali-Linux_Lab-01)** — Documenting a VirtualBox lab for practicing networking and packet analysis with authorized test devices.
 - **[GCC ASME Robot Program](https://github.com/bl1zz4rdw1z4rd/GCC-ASME-Robot-2027)** — C++ software for the Germanna Community College team’s ASME Competition 2027 robot.
 
-### GCC ASME Robot Program
-Developing C++ code to operate all various robotic features of the Germanna Community College Robot for the ASME Competition 2027.
+## Languages and Tools
 
-## Technologies
-
-- Java
-- Python
-- C++
-- Linux
-- Git and GitHub
-- Wireshark
-- Nmap
-- VirtualBox
-- Networking fundamentals
+- **Languages:** C++, Python, Java; currently learning Bash
+- **Systems and networking:** Linux, VirtualBox, networking fundamentals
+- **Lab tools:** Wireshark, Nmap
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/lukegebhart
-- Email: lgghart@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lukegebhart)
+- [Email](mailto:lgghart@gmail.com)
