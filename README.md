@@ -1,18 +1,19 @@
 # Luke Gebhart
 
-Computer Science student and U.S. Air Force veteran focused on Linux, networking, cybersecurity, and systems programming.
+Computer Science student and U.S. Air Force veteran building experience with Linux and software development. I am interested in learning about machine learning, reverse engineering, and systems programming.
 
 ## Current Focus
 
-- Pursuing a Bachelor of Science in Computer Science
-- Building practical Linux and network-security labs
-- Developing projects in Java, Python, and C++
-- Studying networking, packet analysis, and system administration
+- Pursuing a B.S. in Computer Science
+- Learning Bash scripting in an Ubuntu virtual machine
+- Building and documenting Linux and network-security labs
+- Developing C++ control software for Germanna Community College's ASME robot design project
 
 ## Featured Projects
 
-### Kali Linux Network Security Home Lab
-Virtualized networking lab using Kali Linux, VirtualBox, dual USB wireless adapters, Wireshark, Nmap, NetworkManager, and authorized test devices.
+- **[Bash Scripting Lab](REPLACE_WITH_REPOSITORY_LINK)** — Beginner Bash exercises and notes from my Ubuntu lab.
+- **[Kali Linux Network Security Lab](REPLACE_WITH_REPOSITORY_LINK)** — Documenting a VirtualBox lab for practicing networking and packet analysis with authorized test devices.
+- **[GCC ASME Robot Program](REPLACE_WITH_REPOSITORY_LINK)** — C++ software for the Germanna Community College team’s ASME Competition 2027 robot.
 
 ### GCC ASME Robot Program
 Developing C++ code to operate all various robotic features of the Germanna Community College Robot for the ASME Competition 2027.
