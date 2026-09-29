@@ -11,9 +11,9 @@ Computer Science student and U.S. Air Force veteran building experience with Lin
 
 ## Featured Projects
 
-- **[Bash Scripting Lab](REPLACE_WITH_REPOSITORY_LINK)** — Beginner Bash exercises and notes from my Ubuntu lab.
+- **[Bash Scripting Lab]([REPLACE_WITH_REPOSITORY_LINK])** — Beginner Bash exercises and notes from my Ubuntu lab.
 - **[Kali Linux Network Security Lab](REPLACE_WITH_REPOSITORY_LINK)** — Documenting a VirtualBox lab for practicing networking and packet analysis with authorized test devices.
-- **[GCC ASME Robot Program](REPLACE_WITH_REPOSITORY_LINK)** — C++ software for the Germanna Community College team’s ASME Competition 2027 robot.
+- **[GCC ASME Robot Program](https://github.com/bl1zz4rdw1z4rd/GCC-ASME-Robot-2027)** — C++ software for the Germanna Community College team’s ASME Competition 2027 robot.
 
 ### GCC ASME Robot Program
 Developing C++ code to operate all various robotic features of the Germanna Community College Robot for the ASME Competition 2027.
